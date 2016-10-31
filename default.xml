@@ -524,6 +524,8 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
-  <project path="device/Xiaomi/HM2014011" name="ferhung-mtk/android_device_Xiaomi_HM2014011" revision="cm-13.0" />
-  <project path="vendor/Xiaomi/HM2014011" name="ferhung-mtk/android_vendor_Xiaomi_HM2014011" revision="cm-13.0" />
+  <project path="device/Xiaomi/HM2014011" name="fraggel/android_device_Xiaomi_HM2014011" revision="cm-13.0" />
+  <project path="vendor/Xiaomi/HM2014011" name="fraggel/android_vendor_Xiaomi_HM2014011" revision="cm-13.0" />
+  <project path="device/Xiaomi/g750t01" name="fraggel/android_device_huawei_g750t01" revision="cm-13.0" />
+  <project path="vendor/Xiaomi/g750t01" name="fraggel/android_vendor_huawei_g750t01" revision="cm-13.0" />
 </manifest>
